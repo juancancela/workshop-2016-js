@@ -1,0 +1,32 @@
+{
+  "name": "workshop-2016-js",
+  "version": "1.0.0",
+  "description": "Workshop ES6 - GL",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chance": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juancancela/workshop-2016-js.git"
+  },
+  "keywords": [
+    "es6",
+    "js",
+    "gl",
+    "workshop"
+  ],
+  "author": "Juan Carlos Cancela <cancela.juancarlos@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juancancela/workshop-2016-js/issues"
+  },
+  "homepage": "https://github.com/juancancela/workshop-2016-js"
+}
